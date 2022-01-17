@@ -1,3 +1,4 @@
+#calcular la suma de 2 numeros
 print("se sumaran dos numero")
 print("ponga el primer numero")
 primero = int(input())
