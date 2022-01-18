@@ -1,6 +1,6 @@
 #hacer un programa en el que se diguite el nombre de la persona y los cuatros paises que le gustaria viagar y imprimir el primer y ultimo paises
 
-nombre_pais =[]
+nombre_pais = []
 
 print("dime tu nombre")
 nombre = input()

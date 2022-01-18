@@ -1,4 +1,4 @@
-estudiantes =[]
+estudiantes = []
 
 print("dime tu nombre")
 nombre = input()
