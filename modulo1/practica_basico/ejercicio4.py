@@ -9,5 +9,5 @@ if(numero % 2):
 print("diga que numero es par")
 numero = int(input())
 
-if(numero % 5):
+if(numero % 3):
   print("el numero es par")
