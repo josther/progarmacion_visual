@@ -15,12 +15,13 @@
 
 
 
-veces = int(input("cuantos numeros de sea ingresar"))
+print("cuantos numeros de sea ingresar")
+veces = int(input())
 cont = 0
 acum=0
 for i in range(veces):
   print("---ciclo "+str(i+1)+"---")
-  num = int(input("ingrese un numero"))
+  num = int(input("ingrese un numero: "))
   if num%2==0:
     cont+=1
   else:
