@@ -1,0 +1,1 @@
+#hacer una lista de los dias de la semana e imprimirla
