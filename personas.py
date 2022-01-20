@@ -11,7 +11,7 @@ for i in edades:
   print("poner las edades de las personas")
   edades = int(input())
 
-  if edades >= 0 and edades <= 10:
+if edades >= 0 and edades <= 22:
     if edades >= 22 == 0:      
       print("hay {} mayores de edad".formant(len(edades)))
       
