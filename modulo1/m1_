@@ -1,0 +1,15 @@
+Realizar un algoritmo que permita hacer lo siguiente:
+
+El usuario debe digitar su nombre, edad, y dos números. Luego podrá seleccionar una opción de un listado con las 4 operaciones básicas (Suma, Resta, División y Multiplicación) marcando su número correspondiente (1 - 4). Luego que elija la opción deseada, se debe realizar el cálculo de los 2 números con dicha operación e imprimir el cálculo. 
+
+La impresión del cálculo se debe mostrar de la siguiente manera (Ej: si el usuario digita los números 3 y 5 y selecciona la suma como operación):
+
+“La suma de 3 y 5 es igual a 8” 
+
+Validaciones:
+
+Sólo se puede ingresar una edad de 1 a 120 años.
+
+El usuario no puede digitar una opción que no sea del 1 al 4.
+
+En el caso de la división, no se debe realizar si el usuario digita 0 como segundo número. En su defecto, se debe mostrar un mensaje que explique por qué no se pudo realizar la operación.

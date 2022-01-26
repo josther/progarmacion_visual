@@ -1,0 +1,5 @@
+print("enter the username")
+username = input()
+print("enter the password")
+password = int(input())
+print("iniciar")
