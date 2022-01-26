@@ -16,26 +16,28 @@ numero2 = int(input())
 listado = []
 suma = []
 resta = []
-multiplicación = []
-división = []
+multiplicacion = []
+division = []
 
 for x in range(1):
-  print("colocar la suma, resta, división, multiplicación ")
+  print("colocar la suma, resta, division, multiplicacion ")
 
-  if listado == suma :
+  if listado > suma :
     listado = input()
     print("Resultado de la suma")
     print(numero1+numero2)
 
-  if listado == resta :
-    lsitado = input()
+  if listado < resta :
+    listado = input()
     print("Resultado de la resta")
     print(numero1-numero2)
 
-  if listado == multiplicación:  
-    print("Resultado de la multiplicación")
+  if listado >= multiplicacion:
+    listado = input()  
+    print("Resultado de la multiplicacion")
     print(numero1*numero2)
 
-  if listado == división:
-    print("Resultado de la división")
+  if listado == division:
+    listado = input()
+    print("Resultado de la division")
     print(numero1%numero2)
