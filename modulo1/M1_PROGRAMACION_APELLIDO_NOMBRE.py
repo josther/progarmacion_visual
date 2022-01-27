@@ -15,25 +15,19 @@ numero2 = int(input())
 
 operaciones = ["suma," "resta," "division," "multiplicacion"]
 
-for x in range(1):
-  print("colocar la suma, resta, division, multiplicacion ")
+for i in range(1):
+  print(operaciones[0])
+  print("Resultado de la suma")
+  print(numero1+numero2)
 
-  if:
-    suma = input()
-    print("Resultado de la suma")
-    print(numero1+numero2)
+  print(operaciones[1])
+  print("Resultado de la resta")
+  print(numero1-numero2)
+ 
+  print(operaciones[2])
+  print("Resultado de la multiplicacion")
+  print(numero1*numero2)
 
-  # if listado < resta :
-  #   resta = input()
-  #   print("Resultado de la resta")
-  #   print(numero1-numero2)
-
-  # if listado >= multiplicacion:
-  #   multiplicacion = input()  
-  #   print("Resultado de la multiplicacion")
-  #   print(numero1*numero2)
-
-  # if listado == division:
-  #   division = input()
-  #   print("Resultado de la division")
-  #   print(numero1%numero2)
+  print(operaciones[3])
+  print("Resultado de la division")
+  print(numero1%numero2)
