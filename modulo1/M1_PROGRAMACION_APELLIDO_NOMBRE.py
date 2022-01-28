@@ -16,7 +16,8 @@ operaciones = ["suma", "resta", "division", "multiplicacion",]
 
 for i in range(1):
   
-  # if (operaciones < 0):
+  if operaciones == 0:
+    print("coloque un numero del 1 al 4")
     operaciones = int(input())
     print("Resultado de la suma")
     print(numero1+numero2)

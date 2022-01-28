@@ -2,11 +2,11 @@ print("mi nombre es")
 usename = input("toshio")
 
 print("dime tu edad")
-edad = input("28")
- print("genera lo numero del 1 al 10: ")
+edad = input()
+print("genera lo numero del 1 al 10: ")
 input()  
  
-while menu >4:
+while menu > 4:
  menu = int(input("opciones de operacion: \n 1)suma \n 2)resta \n 3)multiplicacion \n 4)division \n"))  
 
  
