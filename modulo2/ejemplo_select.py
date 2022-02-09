@@ -3,10 +3,10 @@ print("conexion sakila")
 import mysql.connector
 
 conexion = mysql.connector.connect(
-    host = "localhost",
-    user = "root",
-    passwd = "",
-    db = "sakila"
+  host = "localhost",
+  user = "root",
+  passwd = "",
+  db = "sakila"
 )
 
 cursor = conexion.cursor()
