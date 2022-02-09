@@ -22,8 +22,8 @@ for registros in cursor.fetchall() :
     print(registros)
 
 # recorrer lo que hay en resultado
-for registros in resultado:
-    print(registros)
+#for registros in resultado:
+  #print(registros)
 
 # cerramos la conexion 
 conexion.close()

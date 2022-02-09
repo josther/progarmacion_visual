@@ -3,7 +3,7 @@ print("conexion sakila")
 import mysql.connector
 
 conexion = mysql.connector.connect(
-    hosts = "localhost",
+    host = "localhost",
     user = "root",
     passwd = "",
     db = "sakila"

@@ -6,7 +6,7 @@ print("buscando registro que coincida con:", nombre_pais)
 import mysql.connector
 
 conexion = mysql.connector.connect(
-    hosts = "localhost",
+    host = "localhost",
     user = "root",
     passwd = "",
     db = "sakila"
@@ -15,7 +15,7 @@ conexion = mysql.connector.connect(
 cursor = conexion.cursor()
 
 
-cursor.execute("SELECT * FROM `country` WHERE country LIKE '%"+nombre_pais+"%' ")
+cursor.execute("SELECT country FROM `country` WHERE country LIKE '%"+nombre_pais+"%' ")
 
 resultado = cursor.fetchall()
 
