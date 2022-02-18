@@ -1,0 +1,9 @@
+T:\calculadora2\calculadora3\calculadora3\bin\Release\calculadora3.exe.config
+T:\calculadora2\calculadora3\calculadora3\bin\Release\calculadora3.exe
+T:\calculadora2\calculadora3\calculadora3\bin\Release\calculadora3.pdb
+T:\calculadora2\calculadora3\calculadora3\obj\Release\calculadora3.csprojResolveAssemblyReference.cache
+T:\calculadora2\calculadora3\calculadora3\obj\Release\calculadora3.Form1.resources
+T:\calculadora2\calculadora3\calculadora3\obj\Release\calculadora3.Properties.Resources.resources
+T:\calculadora2\calculadora3\calculadora3\obj\Release\calculadora3.csproj.GenerateResource.Cache
+T:\calculadora2\calculadora3\calculadora3\obj\Release\calculadora3.exe
+T:\calculadora2\calculadora3\calculadora3\obj\Release\calculadora3.pdb

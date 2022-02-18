@@ -74,7 +74,7 @@ if opcion == "3":
   print("apellido del actor")
   apellido = input()
 
-  sql = "update into actor (first_name, last_name) values (%s,%s)"
+  sql = "update actor (first_name, last_name) values (%s,%s)"
 
   valores = [actor, apellido]
 

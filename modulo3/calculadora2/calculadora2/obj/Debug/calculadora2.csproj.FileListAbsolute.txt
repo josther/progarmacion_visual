@@ -1,0 +1,9 @@
+T:\calculadora2\calculadora2\calculadora2\bin\Debug\calculadora2.exe.config
+T:\calculadora2\calculadora2\calculadora2\bin\Debug\calculadora2.exe
+T:\calculadora2\calculadora2\calculadora2\bin\Debug\calculadora2.pdb
+T:\calculadora2\calculadora2\calculadora2\obj\Debug\calculadora2.csprojResolveAssemblyReference.cache
+T:\calculadora2\calculadora2\calculadora2\obj\Debug\calculadora2.Form1.resources
+T:\calculadora2\calculadora2\calculadora2\obj\Debug\calculadora2.Properties.Resources.resources
+T:\calculadora2\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.GenerateResource.Cache
+T:\calculadora2\calculadora2\calculadora2\obj\Debug\calculadora2.exe
+T:\calculadora2\calculadora2\calculadora2\obj\Debug\calculadora2.pdb

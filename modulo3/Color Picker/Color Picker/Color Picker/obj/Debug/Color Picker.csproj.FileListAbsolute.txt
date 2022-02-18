@@ -1,0 +1,9 @@
+T:\calculadora2\Color Picker\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+T:\calculadora2\Color Picker\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+T:\calculadora2\Color Picker\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+T:\calculadora2\Color Picker\Color Picker\Color Picker\obj\Debug\Color Picker.csprojResolveAssemblyReference.cache
+T:\calculadora2\Color Picker\Color Picker\Color Picker\obj\Debug\Color_Picker.Form1.resources
+T:\calculadora2\Color Picker\Color Picker\Color Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+T:\calculadora2\Color Picker\Color Picker\Color Picker\obj\Debug\Color Picker.csproj.GenerateResource.Cache
+T:\calculadora2\Color Picker\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+T:\calculadora2\Color Picker\Color Picker\Color Picker\obj\Debug\Color Picker.pdb

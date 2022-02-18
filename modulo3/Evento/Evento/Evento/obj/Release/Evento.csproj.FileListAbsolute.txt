@@ -1,0 +1,9 @@
+T:\calculadora2\Evento\Evento\Evento\bin\Release\Evento.exe.config
+T:\calculadora2\Evento\Evento\Evento\bin\Release\Evento.exe
+T:\calculadora2\Evento\Evento\Evento\bin\Release\Evento.pdb
+T:\calculadora2\Evento\Evento\Evento\obj\Release\Evento.Form1.resources
+T:\calculadora2\Evento\Evento\Evento\obj\Release\Evento.Properties.Resources.resources
+T:\calculadora2\Evento\Evento\Evento\obj\Release\Evento.csproj.GenerateResource.Cache
+T:\calculadora2\Evento\Evento\Evento\obj\Release\Evento.exe
+T:\calculadora2\Evento\Evento\Evento\obj\Release\Evento.pdb
+T:\calculadora2\Evento\Evento\Evento\obj\Release\Evento.csprojResolveAssemblyReference.cache

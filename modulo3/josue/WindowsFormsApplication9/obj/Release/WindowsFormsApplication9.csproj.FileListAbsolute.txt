@@ -1,0 +1,16 @@
+c:\users\estudiante\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Release\WindowsFormsApplication9.exe.config
+c:\users\estudiante\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Release\WindowsFormsApplication9.exe
+c:\users\estudiante\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Release\WindowsFormsApplication9.pdb
+c:\users\estudiante\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.Form1.resources
+c:\users\estudiante\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.exe
+c:\users\estudiante\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.pdb
+T:\josue\WindowsFormsApplication9\bin\Release\WindowsFormsApplication9.exe.config
+T:\josue\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.exe
+T:\josue\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.pdb
+T:\josue\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+T:\josue\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.Form1.resources
+T:\josue\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.Properties.Resources.resources
+T:\josue\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.csproj.GenerateResource.Cache
