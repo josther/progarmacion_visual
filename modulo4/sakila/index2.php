@@ -15,7 +15,8 @@
 
 <body>
 
- <li class="nav-item">
+<ul class="nav">
+    <li class="nav-item">
         <a class="nav-link" href="./actores.php">Actores</a>
     </li>
     <li class="nav-item">
@@ -43,6 +44,7 @@
         <a class="nav-link" href="./tiendas.php">Tiendas</a>
     </li>
 </ul>
+
     <div class="col-lg-8 mx-auto p-3 py-md-5">
         <header class="d-flex align-items-center pb-3 mb-5 border-bottom">
             <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
