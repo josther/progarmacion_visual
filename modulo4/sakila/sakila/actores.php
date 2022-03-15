@@ -3,7 +3,7 @@
 require_once "recursos/conexion.php";
 require_once "recursos/funciones.php";
 
-$pagina="Tiendas";
+$pagina= "Actores";
 
 $error = "";
 
@@ -17,14 +17,15 @@ try {
     if (isset($_POST['boton-guardar'])) {
         echo "guardando...";
         //variable
-        $manager_staff_id = $_POST["manager_staff_id"];
-        $address_id = $_POST["address_id"];
+        $first_name = $_POST["first_name"];
+        $last_name = $_POST['last_name'];
+
         //validaciones
-        if(empty($name)) {
-            throw new Exception();
+        if(empty($first_name)) {
+            throw new Exception("El nombre no puede estar vacio");
         }
         //guardar
-        $query = "INSERT INTO store (manager_staff_id, address_id) VALUES ('$manager_staff_id', '$address_id')";
+        $query = "INSERT INTO actor (first_name, last_name) VALUES ('$first_name', '$last_name')";
 
         $resultado = $conexion->query($query) or die("Error en query");
 
@@ -48,4 +49,5 @@ try {
 }
 
 # incluir vista
-require_once "vistas/vista_tiendas.php";
+require_once "vistas/vista_actores.php";
+# no debe haber codigo despues de esta linea

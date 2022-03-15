@@ -3,7 +3,7 @@
 require_once "recursos/conexion.php";
 require_once "recursos/funciones.php";
 
-$pagina="Tiendas";
+$pagina="Paises";
 
 $error = "";
 
@@ -12,19 +12,18 @@ try {
     echo "<pre>";
     print_r($_POST);
     echo "</pre>";
-
+    
     //verificar si le da click al boton
-    if (isset($_POST['boton-guardar'])) {
+    if ( isset($_POST['boton-guardar']) ) {
         echo "guardando...";
         //variable
-        $manager_staff_id = $_POST["manager_staff_id"];
-        $address_id = $_POST["address_id"];
+        $country = $_POST["country"];
         //validaciones
-        if(empty($name)) {
-            throw new Exception();
+        if(empty($country)) {
+            throw new Exception("El pais no puede estar vacio");
         }
         //guardar
-        $query = "INSERT INTO store (manager_staff_id, address_id) VALUES ('$manager_staff_id', '$address_id')";
+        $query = "INSERT INTO country (country) VALUES ('$country')";
 
         $resultado = $conexion->query($query) or die("Error en query");
 
@@ -48,4 +47,4 @@ try {
 }
 
 # incluir vista
-require_once "vistas/vista_tiendas.php";
+require_once "vistas/vista_paises.php";
